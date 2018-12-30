@@ -30,4 +30,6 @@ C++ merupakan pengembangan dari bahasa C. C++ sering disebut mid level languange
     getch();
     }
     
+    
+   
     ![img](https://github.com/muhammadyusufalfaqih/Algo-3.1/blob/master/persegi%20panjang.png?raw=true)
